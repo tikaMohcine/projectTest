@@ -1,6 +1,6 @@
 first commit
 second commit
-added
+added1
 last commit
 DEV 6changed5
 DEV13
